@@ -1,2 +1,4 @@
+![Logo](elina22-removebg-preview.png)
 # Secure-Minor
-an application bot which creates a safe environment for children to interact freely online 
+An application bot which creates a safe environment for children to interact freely online 
+[Documentation]()
